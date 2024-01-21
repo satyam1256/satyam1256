@@ -12,6 +12,7 @@
 <p align="left">An impassioned individual hailing from India, fueled by an unwavering interest in programming and a relentless pursuit of knowledge.</p><br>
 
 - 🔭 I’m currently a **3rd Year UnderGraduate at IIT BHU**
+- 👯 I will be working as a **Data Analyst @Axis Bank**.
 - 🌱 I’m currently learning **Data Science , Web Dev**
 - 💬 Ask me about **DSA , Node , Express , Python etc..** 
 - 📫 How to reach me **skiitian0601@gmail.com**
