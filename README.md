@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">I'm Satyam from Patna, Bihar, India.</h3><br>
+<h3 align="left">I'm Satyam from Patna, Bihar, India.</h3>
 <p align="left">An impassioned individual hailing from India, fueled by an unwavering interest in programming and a relentless pursuit of knowledge.</p><br>
 
 - 🔭 I’m currently a **3rd Year UnderGraduate at IIT BHU**
