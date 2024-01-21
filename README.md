@@ -77,7 +77,7 @@
 <a href="https://stackoverflow.com/users/21951250/satyam-4-year-btech-mining-eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stk2904" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100086125530598" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stk2904" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sk2904.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stk2904" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/stkss_2904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef" alt="stk2904" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/stkss_2904" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="stk2904" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Om.Namah.Shivay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="stk2904" height="30" width="40" /></a>
 </p>
 
