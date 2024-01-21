@@ -8,12 +8,13 @@
 
 ###
 
-<p align="left">I'm Satyam from Patna, Bihar, India.<br><br></p>
--🔭 I’m currently a 3rd Year UnderGraduate at IIT BHU
--🌱 I’m currently learning Data Science , Web Dev
--💬 Ask me about DSA , Node , Express , Python etc.. 
--📫 How to reach me skiitian0601@gmail.com
--⚡ Fun fact Perpetually engrossed in the quest for new resources, a fervent learner always seeks to expand knowledge horizons.</p>
+<p align="left">I'm Satyam from Patna, Bihar, India.</p><br><br>
+
+- 🔭 I’m currently a **3rd Year UnderGraduate at IIT BHU**
+-🌱 I’m currently learning **Data Science , Web Dev**
+-💬 Ask me about **DSA , Node , Express , Python etc..** 
+-📫 How to reach me **skiitian0601@gmail.com**
+-⚡ Fun fact **Perpetually engrossed in the quest for new resources, a fervent learner always seeks to expand knowledge horizons.**</p>
 
 ###
 
