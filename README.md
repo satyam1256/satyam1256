@@ -11,9 +11,9 @@
 <h3 align="left">I'm Satyam from Patna, Bihar, India.</h3>
 <p align="left">An impassioned individual hailing from India, fueled by an unwavering interest in programming and a relentless pursuit of knowledge.</p><br>
 
-- 🔭 I’m currently a **3rd Year UnderGraduate at IIT BHU**
-- 👯 I will be working as a **Data Analyst @Axis Bank**.
-- 🌱 I’m currently learning **Data Science , Web Dev**
+- 🔭 I’m currently a **4rd Year UnderGraduate at IIT BHU**
+- 👯 I had the opportunity working as a **Data Analyst @Axis Bank**.
+- 🌱 I’m currently learning ** Machine Learning and NLP**
 - 💬 Ask me about **DSA , Node , Express , Python etc..** 
 - 📫 How to reach me **skiitian0601@gmail.com**
 - ⚡ Fun fact **Perpetually engrossed in the quest for new resources, a fervent learner always seeks to expand knowledge horizons.**</p>
